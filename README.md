@@ -2,7 +2,7 @@
 
 A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript.
 
-<img src="screenshot.png">
+![Screenshot](Screenshot.png)
 
 # Usage
 
